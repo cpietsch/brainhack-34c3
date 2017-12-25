@@ -1,5 +1,7 @@
 # brainhack-34c3
 
+![chrispie wearing a eeg and doing live visualization](https://media.giphy.com/media/3o752dN9CtHPkYlCDu/giphy.gif)
+
 ## past projects
 - https://salon.io/brainstatesharing
 - https://chrispie.com/labs/brain-state-sharing-1197/
