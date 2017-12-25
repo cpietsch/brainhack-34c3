@@ -1,5 +1,9 @@
 # brainhack-34c3
 
+## past projects
+- https://salon.io/brainstatesharing
+- https://chrispie.com/labs/brain-state-sharing-1197/
+
 ## install
 - osx: http://storage.googleapis.com/ix_downloads/musesdk-3.4.1/musesdk-3.4.1-osx-installer.app.zip
 - linux: http://storage.googleapis.com/ix_downloads/musesdk-3.4.1/musesdk-3.4.1-linux-installer.run
